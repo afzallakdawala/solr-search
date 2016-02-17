@@ -1,0 +1,25 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  description: MyText
+  per_day_rent: 1
+  rating: 9.99
+  user_id: 1
+  category: MyString
+  status: 1
+  score: 9.99
+  location: MyString
+  quantity: 1
+
+two:
+  name: MyString
+  description: MyText
+  per_day_rent: 1
+  rating: 9.99
+  user_id: 1
+  category: MyString
+  status: 1
+  score: 9.99
+  location: MyString
+  quantity: 1

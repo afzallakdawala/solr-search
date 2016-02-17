@@ -1,0 +1,8 @@
+development:
+  adapter:  mysql
+  host:     localhost
+  database: rent
+  username: Afzal
+  password: 123
+  encoding: utf8
+  port: 3306
